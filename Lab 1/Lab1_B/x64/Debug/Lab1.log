@@ -1,0 +1,8 @@
+﻿  main_b.c
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(19,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(20,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(27,32): warning C4027: function declared without formal parameter list
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(35,32): warning C4027: function declared without formal parameter list
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(44,32): warning C4027: function declared without formal parameter list
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\main_b.c(55,59): warning C4022: 'xTaskCreate': pointer mismatch for actual parameter 4
+  Lab1.vcxproj -> C:\Users\Carter\College\Winter 2023\Embedded OS\Lab1\Lab1_B\x64\Debug\Lab1.exe
