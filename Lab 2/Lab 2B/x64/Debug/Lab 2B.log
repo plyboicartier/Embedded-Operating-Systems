@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab 2B\main.c(32,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab 2B\main.c(34,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+  Lab 2B.vcxproj -> C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab 2B\x64\Debug\Lab 2B.exe
