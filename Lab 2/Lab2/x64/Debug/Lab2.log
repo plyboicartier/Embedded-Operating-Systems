@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\main.c(33,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\main.c(35,20): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\main.c(42,33): warning C4027: function declared without formal parameter list
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\main.c(57,85): warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TaskFunction_t'
+C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\main.c(68,33): warning C4027: function declared without formal parameter list
+  Lab2.vcxproj -> C:\Users\Carter\College\Winter 2023\Embedded OS\Lab 2\Lab2\x64\Debug\Lab2.exe
